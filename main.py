@@ -6,6 +6,7 @@ from tkinter import messagebox
 
 #US1 Newton
 
+
 def button():
     dp = input_dp.get().replace(",", ".")#deltaP(Impuls)
     dm = input_dm.get().replace(",", ".")#deltaMasse
