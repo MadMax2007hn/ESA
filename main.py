@@ -4,7 +4,6 @@ import customtkinter
 from tkinter import messagebox
 
 
-
 #US1 Newton
 
 def button():
