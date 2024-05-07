@@ -7,3 +7,14 @@ MadMax2007hn
 croxydercoder
 nishyyyy
 sara
+
+Libs used:
+tkinter
+customtkinter
+numpy
+json
+os
+math
+datetime
+matplotlib.pyplot
+matplotlib
