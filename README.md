@@ -2,6 +2,10 @@
 
 kommt noch
 
+## Download
+
+Bitte die neuste Version aus dem [Releases](https://github.com/MadMax2007hn/ESA/releases) tab beziehen.
+
 ## Installation 
 
 Die .zip entpacken und install_AstralSim ausführen
