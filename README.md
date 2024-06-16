@@ -1,20 +1,29 @@
-# AstralSim - Raketensimulation Ariane 6
-Ein Klasse. 11 IMP Projekt
-9 Userstories in einem Programm mit ihren Simulationen
+# AstralSim - Weltraumsimulation/Raketensimulation Ariane 6
 
-Contributers:
-MadMax2007hn
-croxydercoder
-nishyyyy
-sara
+kommt noch
 
-Libs used:
-tkinter
-customtkinter
-numpy
-json
-os
-math
-datetime
-matplotlib.pyplot
-matplotlib
+## Installation 
+
+Die .zip entpacken und install_AstralSim ausführen
+
+
+
+## Benutzung
+
+```python
+#temp
+```
+
+## Beitragend
+
+Madmax2007hn - Maximilian. S
+
+Croxy04 - Sebastian. M
+
+nishyyyy - Nishant. R
+
+Sara - Sara. W
+
+## Lizenzen
+
+[Name](link)
